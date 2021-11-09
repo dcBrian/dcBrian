@@ -44,7 +44,7 @@
 <h2> My GitHub Stats </h2>
 
 <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivucady&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcBrian&theme=tokyonight" />
 </a>
 
 <h2> Some Programming Humor for you <img align='center'
