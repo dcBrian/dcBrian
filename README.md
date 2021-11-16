@@ -3,7 +3,6 @@
 </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ivucady.ivucady)
 
 </p>
 <div size='20px'>
