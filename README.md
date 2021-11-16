@@ -36,10 +36,6 @@
 
 
 
-<h2> Find me elsewhere 📢 </h2>   
-  <a href="https://leetcode.com/ivucady/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
 
 <h2> My GitHub Stats </h2>
 
