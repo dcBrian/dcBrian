@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently learning Japanese in Tokyo
 
-- 👯 I’m looking for a Job, starting in January
+- 👯 I’m looking for a Job
 
 - 💬 Talk to me about JavaScript, Java, Python<br>
 
