@@ -19,8 +19,6 @@
 
 - 🔭 I’m currently learning Japanese in Tokyo
 
-- 👯 I’m looking for a Job
-
 - 💬 Talk to me about JavaScript, Java, Python<br>
 
 
