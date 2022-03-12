@@ -10,17 +10,6 @@
     <br>
     Thank You for taking the time to view my GitHub Profile :smile:
 </div>
-    
-<h2> About Me</h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-<br>
-
-- 🔭 I’m currently learning Japanese in Tokyo
-
-- 💬 Talk to me about JavaScript, Java, Python<br>
-
 
 <br>
 
