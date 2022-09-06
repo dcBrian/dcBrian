@@ -1,5 +1,9 @@
-<h1 align="center"> Hello < Developers />! 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px>
+<p align="center">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:dcBrian"></a>
+</p>
+
+<h1 align="center"> Hi
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px>, I'm Brian !
 </h1>
 <p align='center'>
 
