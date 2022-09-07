@@ -29,12 +29,3 @@
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-13aa52?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-43853d?style=flat-square&logo=tailwindcss&logoColor=white" />
 </div>
-
-<h2> Some Programming Humor for you <img align='center'
-        src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'
-        width='32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
