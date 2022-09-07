@@ -24,8 +24,9 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-CC6699?style=flat-square&logo=git&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FB542B?style=flat-square&logo=svelte&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-EC4A3F?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FB542B?style=flat-square&logo=svelte&logoColor=white" />
+  <img alt="Jvascript" src="https://img.shields.io/badge/-Javascript-FFBF00?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-13aa52?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-43853d?style=flat-square&logo=tailwindcss&logoColor=white" />
 </div>
