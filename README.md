@@ -1,5 +1,9 @@
 <p align="center">
+<!---
+Original repl.it tends to be down
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:dcBrian"></a>
+-->
+  <a href="https://count.getloli.com/"><img src="https://count.chiya.dev/get/@:dcBrian"></a>
 </p>
 
 <h1 align="center"> Hi, I'm Brian !
