@@ -3,8 +3,10 @@
 Original repl.it tends to be down
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:dcBrian"></a>
 -->
-  <a href="https://count.getloli.com/"><img src="https://count.chiya.dev/get/@:dcBrian"></a>
-</p>
+  <a href="https://count.getloli.com/"><img src="https://count.chiya.dev/get/@:dcBrian"></a>  <img src="./images/VIEWS.png">
+  <br>
+  <br>
+  <br>
 
 <h1 align="center"> Hi, I'm Brian !
 </h1>
@@ -12,7 +14,7 @@ Original repl.it tends to be down
 <p>Welcome to my page ! <Br/>I'm a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Tokyo, Japan</b>. </p>
 
 
-<h2>Things I code with</h2>
+<h2>Some things I code with</h2>
 <div>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-8DD6F9?style=flat-square&logo=go&logoColor=white" /> 
@@ -34,3 +36,25 @@ Original repl.it tends to be down
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-13aa52?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-43853d?style=flat-square&logo=tailwindcss&logoColor=white" />
 </div>
+
+
+<h2>Some things I did</h2>
+Want to play some game ?
+
+<p align="left"> 
+  <br>
+  <a href="https://github.com/dcBrian/wordle">
+    <img align="center" src="./images/wordle.svg" width="200px" />
+  </a>
+  <br>
+</p>
+<br>
+
+A bunch of website clone I made:
+
+| Website Clone | Technologies | Status |                            
+| ---------------------------- | ------------------------------------------------ | ----------- |
+| <a href="https://github.com/dcBrian/Airbnb">Airbnb</a>| Next.js, Tailwind, Vercel | Done |
+| <a href="https://github.com/dcBrian/Reddit">Reddit</a>| Next.js, Tailwind, Supabase, Stepzen, Vercel | Done |
+| <a href="https://github.com/dcBrian/wordle">WhatsApp</a> | Next.js, Tailwind, Firebase, Vercel | WIP but available |
+| Amazon | To be defined | Unstarted   |
