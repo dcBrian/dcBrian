@@ -14,7 +14,7 @@ Original repl.it tends to be down
 <p>Welcome to my page ! <Br/>I'm a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Tokyo, Japan</b>. </p>
 
 
-<h2>Some things I code with</h2>
+<h2>Things I code with</h2>
 <div>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-8DD6F9?style=flat-square&logo=go&logoColor=white" /> 
@@ -38,7 +38,7 @@ Original repl.it tends to be down
 </div>
 
 
-<h2>Some things I did</h2>
+<h2>Projects I did</h2>
 Want to play some game ?
 
 <p align="left"> 
