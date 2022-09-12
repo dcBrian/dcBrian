@@ -56,5 +56,5 @@ A bunch of website clone I made:
 | ---------------------------- | ------------------------------------------------ | ----------- |
 | <a href="https://github.com/dcBrian/Airbnb">Airbnb</a>| Next.js, Tailwind, Vercel | Done |
 | <a href="https://github.com/dcBrian/Reddit">Reddit</a>| Next.js, Tailwind, Supabase, Stepzen, Vercel | Done |
-| <a href="https://github.com/dcBrian/wordle">WhatsApp</a> | Next.js, Tailwind, Firebase, Vercel | WIP but available |
+| <a href="https://github.com/dcBrian/whatsApp">WhatsApp</a> | Next.js, Tailwind, Firebase, Vercel | WIP but available |
 | Amazon | To be defined | Unstarted   |
