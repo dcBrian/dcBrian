@@ -37,6 +37,10 @@ Original repl.it tends to be down
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-43853d?style=flat-square&logo=tailwindcss&logoColor=white" />
 </div>
 
+  <br>
+  <h4 align="center">
+Find below a collection of projects I've crafted to stay updated with the latest technology trends and showcase some of my skills
+  </h4>
 
 ---
 
