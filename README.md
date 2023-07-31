@@ -42,7 +42,7 @@ Original repl.it tends to be down
 
 <h3 align="center">Tuneify</h3>
   
-<p align="justify"> Allow me to introduce my latest and most exciting project. Tuneify is all about making it easy and fun to share your current favorite tunes with your besties in real-time! Whether you're discovering new music or reminiscing with old classics, Tuneify lets you create personalized playlists and share them with your friends instantly. <a href="https://github.com/dcBrian/wordle"> 🎵 Check out the project on GitHub. </a></p>
+<p align="justify"> Tuneify is all about making it easy and fun to share your current favorite tunes with your besties in real-time! Whether you're discovering new music or reminiscing with old classics, Tuneify lets you create personalized playlists and share them with your friends instantly. <a href="https://github.com/dcBrian/wordle"> 🎵 Check out the project. </a></p>
 
 ---
 
