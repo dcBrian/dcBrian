@@ -66,7 +66,7 @@ A collection of projects I've crafted to stay updated with the latest technology
 
 <h3 align="center">Tuneify</h3>
   
-<p align="justify"> Tuneify is all about making it easy and fun to share your current favorite tunes with your besties in real-time! Whether you're discovering new music or reminiscing with old classics, Tuneify lets you create personalized playlists and share them with your friends instantly. <a href="https://github.com/dcBrian/wordle"> 🎵 Check out the project. </a></p>
+<p align="justify"> Tuneify is all about making it easy and fun to share your current favorite tunes with your besties in real-time! Whether you're discovering new music or reminiscing with old classics, Tuneify lets you create personalized playlists and share them with your friends instantly. <a href="https://github.com/dcBrian/Tuneify"> 🎵 Check out the project. </a></p>
 
 ---
 
