@@ -3,8 +3,10 @@
 Original repl.it tends to be down
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:dcBrian"></a>
 -->
-  <a href="https://count.getloli.com/"><img src="https://count.chiya.dev/get/@:dcBrian"></a>  <img src="./images/VIEWS.png">
+  <a href="https://count.getloli.com/"><img src="https://count.chiya.dev/get/@:dcBrian"></a>  
+ 
   <br>
+   <img src="./images/VIEWS.png">
   <br>
   <br>
 
