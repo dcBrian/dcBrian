@@ -48,6 +48,14 @@ Original repl.it tends to be down
 
   <br>
   
+<p align="center">
+  <a href="https://rb.gy/ep5tg" align="center">
+    Have a look at my latest project
+  </a>
+</p>
+
+  <br>
+  
   <h4 align="center">
 A collection of projects I've crafted to stay updated with the latest technology trends and showcase some of my skills
   </h4>
@@ -90,10 +98,5 @@ I like to challenge myself by attempting to recreate some of the world's most fa
   </table>
 
   <br>
-
-<p align="center">
-  
-<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
-</p>
 
 
