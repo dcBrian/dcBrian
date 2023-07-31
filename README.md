@@ -41,7 +41,7 @@ Original repl.it tends to be down
   <br>
   
 <p align="center">
-  <a href="https://tuneify-dcbrian.vercel.app/list?user=dacruzbrian1" align="center">
+  <a href="https://tuneify-dcbrian.vercel.app/list?user=Brian" align="center">
     Check out my top song picks of the moment!
   </a>
 </p>
