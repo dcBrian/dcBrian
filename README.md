@@ -38,6 +38,16 @@ Original repl.it tends to be down
 </div>
 
   <br>
+  <br>
+  
+<p align="center">
+  <a href="https://tuneify-dcbrian.vercel.app/list?user=dacruzbrian1" align="center">
+    Check out my top song picks of the moment!
+  </a>
+</p>
+
+  <br>
+  
   <h4 align="center">
 Find below a collection of projects I've crafted to stay updated with the latest technology trends and showcase some of my skills
   </h4>
