@@ -49,7 +49,7 @@ Original repl.it tends to be down
   <br>
   
   <h4 align="center">
-Find below a collection of projects I've crafted to stay updated with the latest technology trends and showcase some of my skills
+A collection of projects I've crafted to stay updated with the latest technology trends and showcase some of my skills
   </h4>
 
 ---
