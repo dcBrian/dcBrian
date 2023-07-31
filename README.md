@@ -14,7 +14,7 @@ Original repl.it tends to be down
 <p>Welcome to my page ! <Br/>I'm a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Tokyo, Japan</b>. </p>
 
 
-<h2>Things I code with</h2>
+<h3>Things I code with</h3>
 <div>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-8DD6F9?style=flat-square&logo=go&logoColor=white" /> 
@@ -38,21 +38,41 @@ Original repl.it tends to be down
 </div>
 
 
-<h2>Projects I did</h2>
-Want to play some game ?
+---
 
-<p align="left"> 
-  <br>
-  <a href="https://github.com/dcBrian/wordle">
-    <img align="center" src="./images/wordle.svg" width="200px" />
+<h3 align="center">Tuneify</h3>
+  
+<p align="justify"> Allow me to introduce my latest and most exciting project. Tuneify is all about making it easy and fun to share your current favorite tunes with your besties in real-time! Whether you're discovering new music or reminiscing with old classics, Tuneify lets you create personalized playlists and share them with your friends instantly. <a href="https://github.com/dcBrian/wordle"> 🎵 Check out the project on GitHub. </a></p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/dcBrian/wordle" align="center">
+    <img  src="./images/wordle.svg" width="150px"  />
   </a>
-  <br>
 </p>
-<br>
 
-A bunch of website clone I made:
+<p align="justify"> Ready to challenge your vocabulary and have some gaming fun? Look no further! Check out my exciting word game, Wordle! This captivating game will put your puzzle-solving skills to the test as you guess the secret five-letter word with limited attempts. <a href="https://github.com/dcBrian/wordle">Explore the code and give it a try here</a>. I hope you enjoy playing it as much as I enjoyed creating it! 🌟 </p>
 
-| Website Clone | Technologies | Status |                            
-| ---------------------------- | ------------------------------------------------ | ----------- |
-| <a href="https://github.com/dcBrian/Airbnb">Airbnb</a>| Next.js, Tailwind, Vercel | Done |
-| <a href="https://github.com/dcBrian/Reddit">Reddit</a>| Next.js, Tailwind, Supabase, Stepzen, Vercel | Done |
+---
+
+<h3 align="center">Partial Website Clones</h3>
+
+I like to challenge myself by attempting to recreate some of the world's most famous websites's features. Here are a few partial website clones I've crafted:
+
+  <table align="center"> 
+    <tr>
+      <th>Project</th>
+      <th>Status</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dcBrian/Airbnb">Airbnb</a></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dcBrian/Reddit">Reddit</a></td>
+      <td>Done</td>
+    </tr>
+  </table>
+
+
