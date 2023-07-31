@@ -52,7 +52,7 @@ Find below a collection of projects I've crafted to stay updated with the latest
 
 <p align="center">
   <a href="https://github.com/dcBrian/wordle" align="center">
-    <img  src="./images/wordle.svg" width="100px"  />
+    <img  src="./images/wordle.svg" width="115px"  />
   </a>
 </p>
 
