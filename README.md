@@ -71,7 +71,7 @@ A collection of projects I've crafted to stay updated with the latest technology
 ---
 
 <p align="center">
-  <a href="https://github.com/dcBrian/wordle" align="center">
+  <a href="https://wordle-dcbrian.vercel.app/" align="center">
     <img  src="./images/wordle.svg" width="115px"  />
   </a>
 </p>
