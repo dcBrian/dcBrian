@@ -128,16 +128,17 @@ latest trends and best practices.
 ## 📫 Let's Connect 
 I'm always open to new opportunities and collaborations.
 <div>
-  <a href="">
+  <a href="https://www.linkedin.com/in/brian-da-cruz/">
     <img
       alt="Linkedin"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  <a href="">
+  <a href="https://leetcode.com/ivucady/">
     <img
       alt="LeetCode"
       src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
     />
   </a>
 </div>
+
