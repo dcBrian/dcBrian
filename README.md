@@ -4,7 +4,7 @@
         <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:dcBrian"></a>
       -->
   <a href="https://count.getloli.com/">
-    <img src="https://count.chiya.dev/get/@:dcBrian" />
+    <img src="https://count.chiya.dev/get/@:dcbrian" />
   </a>
 
   <br />
