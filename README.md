@@ -28,14 +28,6 @@ latest trends and best practices.
 <br />
 
 <p align="center">
-  <a href="https://tuneify-eight.vercel.app/list?user=Brian" align="center">
-    Check out my top song picks of the moment!
-  </a>
-</p>
-
-<br />
-
-<p align="center">
   <a href="https://rb.gy/ep5tg" align="center">
     Have a look at my latest project
   </a>
