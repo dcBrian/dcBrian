@@ -16,12 +16,11 @@
 
 # Hi there, I'm Brian 👋 
 <div align="justify">
-I'm a passionate Fullstack developer from 
+I'm a Fullstack developer from 
 <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13" />
 <b>Paris, France</b>, currently living in 
 <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13" />
-<b>Tokyo, Japan</b>. I enjoy building web applications and solving complex
-problems to create user-friendly experiences. I have a strong affinity for
+<b>Tokyo, Japan</b>. I enjoy building web applications. I have a strong affinity for
 Javascript and its ecosystem. Enthusiastic about staying up to date with the
 latest trends and best practices.
 </div>
