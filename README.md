@@ -4,7 +4,7 @@
         <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:dcBrian"></a>
       -->
   <a href="https://count.getloli.com/">
-    <img src="https://count.getloli.com/@bdc?name=bdc&theme=gelbooru&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+    <img src="https://count.getloli.com/@bdc?name=bdc&theme=gelbooru&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0" />
   </a>
 
   <br />
